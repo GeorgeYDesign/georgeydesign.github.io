@@ -2,7 +2,7 @@
 title               : Georges Youssef
 description         : >-
                       I'm a Computer Science Student and Web Developer
-baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+baseurl             : "georgeydesign.github.io"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : GeorgeYDesign/georgeydesign     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : GeorgeYDesign/georgeydesign
 
